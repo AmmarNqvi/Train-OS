@@ -21,5 +21,6 @@ python tools/train/train.pyw
 ## Run TOS using:
 
 make
+
 bochs
 
